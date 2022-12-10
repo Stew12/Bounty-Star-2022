@@ -1,0 +1,7 @@
+Controls:
+
+N64 has some more weight to turning, maybe some subtle acceleration to rotation?
+
+Shooting feels super fast, might be hitscan rather than projectile?
+
+When making a big turn and stopping, N64 has the ship's rotation snap back, and reticle follows. For Unity, the ship follows the reticle. Feels better on N64 so change it.
